@@ -1,4 +1,4 @@
-# 
+# VIP DaVinci Resolve herramientas para Mac OS | Instantáneo DaVinci Resolve herramientas para PC Windows. Con capas de forma y soporte de plugins — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
